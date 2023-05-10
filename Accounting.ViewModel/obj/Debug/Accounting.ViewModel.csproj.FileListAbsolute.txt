@@ -1,0 +1,12 @@
+C:\Users\Mani\source\repos\Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+C:\Users\Mani\source\repos\Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+C:\Users\Mani\source\repos\Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+C:\Users\Mani\source\repos\Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Mani\source\repos\Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+C:\Users\Mani\source\repos\Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb
+C:\Users\amazing\source\repos\Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.dll
+C:\Users\amazing\source\repos\Accounting\Accounting.ViewModel\bin\Debug\Accounting.ViewModel.pdb
+C:\Users\amazing\source\repos\Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.AssemblyReference.cache
+C:\Users\amazing\source\repos\Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\amazing\source\repos\Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.dll
+C:\Users\amazing\source\repos\Accounting\Accounting.ViewModel\obj\Debug\Accounting.ViewModel.pdb

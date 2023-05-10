@@ -1,0 +1,6 @@
+C:\Users\Mani\source\repos\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+C:\Users\Mani\source\repos\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+C:\Users\Mani\source\repos\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.AssemblyReference.cache
+C:\Users\Mani\source\repos\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+C:\Users\Mani\source\repos\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+C:\Users\Mani\source\repos\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
